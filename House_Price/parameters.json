@@ -1,0 +1,18 @@
+{
+    "training":
+    {
+
+    },
+    "evaluation":
+    {
+
+    },
+    "registration":
+    {
+        "tags": ["rmse"]
+    },
+    "scoring":
+    {
+        
+    }
+}
